@@ -1,2 +1,3 @@
 A Crypto Stats App
-The live version : https://cryptoversewebapp.netlify.app/
+
+ You can check the live version : https://cryptoversewebapp.netlify.app/
